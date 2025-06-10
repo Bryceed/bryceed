@@ -4,9 +4,9 @@
 	<img src="https://skillicons.dev/icons?i=git,html,css,js,bootstrap,discord,bots,cs,flutter,java,dotnet,md,materialui,netlify,nodejs,express,nginx,androidstudio,bash,blender,electron,ps,php,postgres,py,react,nextjs,nuxtjs,vue,regex,spring,maven,sqlite,jquery,svg,wordpress,eclipse,cloudflare,workers,figma,xd,aws,azure,gcp,heroku,mysql,mongodb,visualstudio,vscode,neovim,wasm,webpack,linux,unity,unreal,azul,firebase,dart,sass,emotion,deno,pug,selenium,vercel&theme=light"  width="90%"/>
 </p>
 
-<h3 align="center"><br><br><i>Don’t accept the world as it is: possibilities belongs to thoses who refuse to stay small.</h3>
+<h3 align="center"><br><i><b>"</b>Don’t accept the world as it is: possibilities belongs to thoses who refuse to stay small.<b>"</b></h3>
 <p align="center"><i>Não aceite o mundo como ele é: possibilidades pertencem aqueles que recusam a permanecerem pequenos.
-</i></p><br><br>
+</i></p><br>
 
 <h3>👋 Presentation:</h3>
 <p align="center">
