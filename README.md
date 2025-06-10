@@ -1,4 +1,8 @@
-![170435956-b3f24ed5-50c9-4bbb-88f8-9b5c06b8cc57(1)](https://user-images.githubusercontent.com/42657376/174192978-fa9064ad-715b-41f6-9296-2e9a2d42a834.png)
+<h3 align="center"><br><br><i>Don’t accept the world as it is: possibilities belongs to thoses who refuse to stay small.</h3>
+<p align="center"><i>Não aceite o mundo como ele é: possibilidades pertencem aqueles que recusam a permanecerem pequenos.
+</i></p><br><br>
+
+<img src="https://github.com/user-attachments/assets/b101948d-5a10-4161-af8f-9e7ffc2f6369" style="width: 100%" /><br><br>
 
 <p align="center">  
 	<img src="https://skillicons.dev/icons?i=git,html,css,js,bootstrap,discord,bots,cs,flutter,java,dotnet,md,materialui,netlify,nodejs,express,nginx,androidstudio,bash,blender,electron,ps,php,postgres,py,react,nextjs,nuxtjs,vue,regex,spring,maven,sqlite,jquery,svg,wordpress,eclipse,cloudflare,workers,figma,xd,aws,azure,gcp,heroku,mysql,mongodb,visualstudio,vscode,neovim,wasm,webpack,linux,unity,unreal,azul,firebase,dart,sass,emotion,deno,pug,selenium,vercel&theme=light"  width="90%"/>
