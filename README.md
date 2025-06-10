@@ -1,17 +1,16 @@
-<h3 align="center"><br><br><i>Don’t accept the world as it is: possibilities belongs to thoses who refuse to stay small.</h3>
-<p align="center"><i>Não aceite o mundo como ele é: possibilidades pertencem aqueles que recusam a permanecerem pequenos.
-</i></p><br><br>
-
 <img src="https://github.com/user-attachments/assets/b101948d-5a10-4161-af8f-9e7ffc2f6369" style="width: 100%" /><br><br>
 
 <p align="center">  
 	<img src="https://skillicons.dev/icons?i=git,html,css,js,bootstrap,discord,bots,cs,flutter,java,dotnet,md,materialui,netlify,nodejs,express,nginx,androidstudio,bash,blender,electron,ps,php,postgres,py,react,nextjs,nuxtjs,vue,regex,spring,maven,sqlite,jquery,svg,wordpress,eclipse,cloudflare,workers,figma,xd,aws,azure,gcp,heroku,mysql,mongodb,visualstudio,vscode,neovim,wasm,webpack,linux,unity,unreal,azul,firebase,dart,sass,emotion,deno,pug,selenium,vercel&theme=light"  width="90%"/>
 </p>
-<p align="center"><i>...and <a href="https://lazer.ppy.sh/u/Bryceed">osu player</a>.</i><br><a href="https://lazer.ppy.sh/u/Bryceed"><img src="https://lemmmy.pw/osusig/sig.php?colour=hex3d10c4&uname=Bryceed&pp=2&countryrank&flagshadow&darktriangles&opaqueavatar&onlineindicator=undefined&xpbar&xpbarhex"/></a></p>
+
+<h3 align="center"><br><br><i>Don’t accept the world as it is: possibilities belongs to thoses who refuse to stay small.</h3>
+<p align="center"><i>Não aceite o mundo como ele é: possibilidades pertencem aqueles que recusam a permanecerem pequenos.
+</i></p><br><br>
 
 <h3>👋 Presentation:</h3>
 <p align="center">
-Hi! My name is <b>Wellington</b>, I have <b>24 years</b> and I'm from Guarulhos (São Paulo, <b>Brazil</b>).<br>
+Hi! My name is <b>Wellington</b>, I have <b>26 years</b> and I'm from Rio de Janeiro (RJ, <b>Brazil</b>).<br>
 I am an enthusiast of technology and driven by music, I try to unite both worlds whenever it's possible.<br>
 Working in front-end as a hobby since 2011, my goal is to turn this passion into a profession.<br><br>
 
